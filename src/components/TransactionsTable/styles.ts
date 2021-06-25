@@ -33,7 +33,7 @@ export const Container = styled.section`
         border-radius: 0 0.25rem 0.25rem 0;
       }
 
-      &.deposity {
+      &.deposit {
         color: var(--green);
       }
       
